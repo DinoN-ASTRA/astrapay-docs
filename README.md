@@ -8,7 +8,7 @@ AstraPay is a non-custodial crypto payment processing platform. Accept USDC, USD
 https://apipay.byastra.ai/v1/api
 ```
 
-**Dashboard:** [app.bypayastra.com](https://app.bypayastra.com)
+**Dashboard:** [pay.byastra.ai](https://pay.byastra.ai)
 
 ---
 
