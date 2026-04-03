@@ -30,7 +30,7 @@ curl https://apipay.byastra.ai/v1/api/products \
       "price": 49.00,
       "currency_type": "FIAT",
       "active": true,
-      "share_link": "https://app.bypayastra.com/products/b2c3d4e5",
+      "share_link": "https://pay.byastra.ai/products/b2c3d4e5",
       "created_at": "2026-03-31T12:00:00.000Z"
     }
   ]

@@ -111,7 +111,7 @@ checkout_url = res.json()["data"]["checkout_url"]
     "token": "USDC",
     "network": "BASE",
     "status": "PENDING",
-    "checkout_url": "https://app.bypayastra.com/purchases/pXk9mQ",
+    "checkout_url": "https://pay.byastra.ai/purchases/pXk9mQ",
     "transaction_hash": null,
     "customer_email": "john@example.com",
     "customer_name": null,

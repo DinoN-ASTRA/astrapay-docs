@@ -10,7 +10,7 @@ X-Api-Key: ap_live_your_api_key_here
 
 ## Generating API keys
 
-1. Log in to the [AstraPay Dashboard](https://app.bypayastra.com)
+1. Log in to the [AstraPay Dashboard](https://pay.byastra.ai)
 2. Go to **Settings → API Keys**
 3. Click **Create API Key**
 4. Select scopes and choose Test or Live mode

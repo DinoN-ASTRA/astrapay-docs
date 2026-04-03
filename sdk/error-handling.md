@@ -3,7 +3,7 @@
 The SDK throws `AstraPayError` for all API and network failures.
 
 ```typescript
-import { AstraPayClient, AstraPayError } from "@astralabs/sdk";
+import { AstraPayClient, AstraPayError } from "@astra-pay/sdk";
 
 try {
   const payment = await client.payments.get("invalid-id");

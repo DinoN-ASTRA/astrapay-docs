@@ -21,7 +21,7 @@ const nftPass = await client.products.create({
 });
 
 console.log(product.share_link);
-// => "https://app.bypayastra.com/products/b2c3d4e5"
+// => "https://pay.byastra.ai/products/b2c3d4e5"
 ```
 
 ---

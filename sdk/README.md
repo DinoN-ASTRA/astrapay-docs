@@ -2,7 +2,7 @@
 
 The official TypeScript/JavaScript SDK for the AstraPay API. Zero runtime dependencies — uses native `fetch`.
 
-**Package:** `@astralabs/sdk`\
+**Package:** `@astra-pay/sdk`\
 **Requires:** Node.js >= 18.0.0
 
 ---
@@ -10,9 +10,9 @@ The official TypeScript/JavaScript SDK for the AstraPay API. Zero runtime depend
 ## Installation
 
 ```bash
-npm install @astralabs/sdk
+npm install @astra-pay/sdk
 # or
-yarn add @astralabs/sdk
+yarn add @astra-pay/sdk
 ```
 
 ---
@@ -20,7 +20,7 @@ yarn add @astralabs/sdk
 ## Quick start
 
 ```typescript
-import { AstraPayClient } from "@astralabs/sdk";
+import { AstraPayClient } from "@astra-pay/sdk";
 
 const client = new AstraPayClient("ap_live_your_api_key");
 
@@ -33,7 +33,7 @@ const payment = await client.payments.create({
 });
 
 console.log(payment.checkout_url);
-// => "https://app.bypayastra.com/purchases/pXk9mQ"
+// => "https://pay.byastra.ai/purchases/pXk9mQ"
 ```
 
 ---

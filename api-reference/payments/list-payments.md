@@ -43,7 +43,7 @@ curl "https://apipay.byastra.ai/v1/api/payments?status=COMPLETED&page=1&pageSize
         "token": "USDC",
         "network": "BASE",
         "status": "COMPLETED",
-        "checkout_url": "https://app.bypayastra.com/purchases/pXk9mQ",
+        "checkout_url": "https://pay.byastra.ai/purchases/pXk9mQ",
         "transaction_hash": "0xabc123...",
         "customer_email": "john@example.com",
         "metadata": { "order_id": "ORD-12345" },

@@ -70,7 +70,7 @@ curl -X POST https://apipay.byastra.ai/v1/api/products \
     "token": null,
     "network": null,
     "active": true,
-    "share_link": "https://app.bypayastra.com/products/b2c3d4e5",
+    "share_link": "https://pay.byastra.ai/products/b2c3d4e5",
     "created_at": "2026-03-31T12:00:00.000Z",
     "updated_at": "2026-03-31T12:00:00.000Z"
   }

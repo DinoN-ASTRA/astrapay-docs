@@ -46,7 +46,7 @@ curl -X POST https://apipay.byastra.ai/v1/api/payments \
   "data": {
     "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
     "short_id": "pXk9mQ",
-    "checkout_url": "https://app.bypayastra.com/purchases/pXk9mQ",
+    "checkout_url": "https://pay.byastra.ai/purchases/pXk9mQ",
     "status": "PENDING",
     "expires_at": "2026-04-01T12:00:00.000Z"
   }

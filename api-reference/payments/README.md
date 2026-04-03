@@ -14,7 +14,7 @@ Payments are the core object in AstraPay. Each payment represents a single crypt
   "token": "USDC",
   "network": "BASE",
   "status": "PENDING",
-  "checkout_url": "https://app.bypayastra.com/purchases/pXk9mQ",
+  "checkout_url": "https://pay.byastra.ai/purchases/pXk9mQ",
   "transaction_hash": null,
   "customer_email": "john@example.com",
   "customer_name": "John Doe",
